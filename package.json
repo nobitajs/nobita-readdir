@@ -1,6 +1,6 @@
 {
   "name": "nobita-readdir",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nobita-readdir",
   "main": "lib/nobita-readdir.js",
   "dependencies": {},
