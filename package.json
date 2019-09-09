@@ -1,12 +1,13 @@
 {
   "name": "nobita-readdir",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "nobita-readdir",
   "main": "lib/nobita-readdir.js",
   "dependencies": {},
   "devDependencies": {
     "koa": "^2.5.0",
-    "koa-router": "^7.4.0"
+    "koa-router": "^7.4.0",
+    "glob": "^7.1.4"
   },
   "files": [
     "lib"
